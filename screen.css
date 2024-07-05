@@ -102,5 +102,11 @@ footer {
     height: 1.125em;
     margin: 1em 0 -2.125em;
     line-height: 1.125em;
-    color: var(--dark-blue);
+    color: #777;
+    opacity:0.55;
+}
+
+footer a {
+    text-decoration: none;
+    color: #777;
 }
