@@ -1,5 +1,3 @@
 export default {
-    build: {
-        minify: false,
-    },
+    base: '/css-qr-code-component/'
 };
